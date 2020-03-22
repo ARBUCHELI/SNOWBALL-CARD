@@ -32,11 +32,11 @@
 	font-style: italic;
 }
 .list {
-	list-style-type: none;
+	list-style-type: none; /*Deletes the bullet points of the list.*/
 	padding-left: 0;
 }
 .dato {
-	font-weight: bold;
+	font-weight: bold; /*Styles the list items.*/
 	color: #8710FE;
 }
 .content {
