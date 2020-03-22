@@ -1,7 +1,7 @@
 /* add your CSS here */
 .top {
 	width: 320px;
-	background-color: #71B3F4;
+	background-color: #71B3F4; /*Container color (light blue)*/
 	border-radius: 5px;
 	border-style: solid;
 	border-width: 0.5px;
@@ -10,7 +10,7 @@
 	padding-right: 10px;
 	box-shadow: 5px 5px 0px #8710FE;
 }
-.name {
+.name { /*Styling the title*/
 	font-family: "Comic Sans MS";
 	color: #8710FE;
 	font-size: 25px;
@@ -18,17 +18,17 @@
 	padding-bottom: -1em;
 
 }
-.foto {
+.foto { /*Styling the picture*/
 	height: 200px;
 	width:320px;
 	padding-bottom: 10px;
 }
-.content {
+.content { /*Configuring (styling the box with the content*/
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
-.interesting {
+.interesting { /*Cursive letters in the interesting fact*/
 	font-style: italic;
 }
 .list {
